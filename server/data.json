@@ -1,0 +1,52 @@
+[
+    {
+        "poiName": "Poi 1",
+        "latitude": 40.978696156559884, 
+        "longitude": 29.13730406235724
+    },
+    {
+        "poiName": "Poi 2",
+        "latitude": 40.97263724900384, 
+        "longitude": 29.141359562598126
+    },
+    {
+        "poiName": "Poi 3",
+        "latitude": 40.97529416466278,  
+        "longitude": 29.12781977119488
+    },
+    {
+        "poiName": "Poi 4",
+        "latitude": 40.971648978664156, 
+        "longitude": 29.13672470558623
+    },
+    {
+        "poiName": "Poi 5",
+        "latitude": 40.97900394715689,  
+        "longitude": 29.126296276395397
+    },
+    {
+        "poiName": "Poi 6",
+        "latitude": 40.97900394715689,  
+        "longitude": 29.126296276395397
+    },
+    {
+        "poiName": "Poi 7",
+        "latitude": 40.98341005534748, 
+        "longitude": 29.125395054550385
+    },
+    {
+        "poiName": "Poi 8",
+        "latitude": 40.97529416466278,  
+        "longitude": 29.12781977119488
+    },
+    {
+        "poiName": "Poi 9",
+        "latitude": 40.988334180897816, 
+        "longitude": 29.12507318950866
+    },
+    {
+        "poiName": "Poi 10",
+        "latitude": 40.98318327765146,  
+        "longitude": 29.119558567487996
+    }
+]
