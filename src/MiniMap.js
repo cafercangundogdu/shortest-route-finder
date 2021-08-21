@@ -107,7 +107,7 @@ function MiniMap() {
             console.log(data)
             axios({
                 method: "post",
-                url:"http://localhost:4004/route",
+                url:process.env.REACT_APP_API_URL,
                 data
             }).then(response => {
                 console.log("server-response", response)
